@@ -946,7 +946,7 @@ var fr = { "translation":
         "carousel_easy_title":  "Facile à utiliser ",
         "carousel_easy_text":  "Nous sommes disponible sur les supports Windows, Mac, Linux, UNIX, BSD, Solaris, Android et iOS. ",
         "carousel_tech_title":  "Leader technologique. ",
-        "carousel_tech_text":  "Pionnier dans cette technologie avec l'innovation et les fonctionnalités telles que les DAG, les bulletproofs et un réseau entièrement crypté en SSL/TLS. ",
+        "carousel_tech_text":  "Pionnier dans cette technologie avec l'innovation et des fonctionnalités telles que le blockDAG, les bulletproofs et un réseau entièrement crypté en SSL/TLS. ",
         "carousel_orig_title":  "Développeurs initiaux ",
         "carousel_orig_text":  "Le projet Dero a été développé à partir de zéro et est activement développé par les développeurs initiaux. ",
         "carousel_touch_title":  "Entrer en contact ",
